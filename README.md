@@ -56,6 +56,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 ## Выводы (итоги):
 
 https://www.notion.so/1-2-86029c45c20b454f91d58180703d5ea2
+
 https://www.notion.so/570dbbe220324076bf210523c0c33263
 
 ## Контактная информация
